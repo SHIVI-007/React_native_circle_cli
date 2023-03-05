@@ -31,7 +31,7 @@ const App = () => {
         title="Say Hello"
         onPress={() => {
           setTimeout(() => {
-            setMessage("Hello Tester");
+            setMessage("Hello Tester welcome to hell world");
           }, Math.floor(Math.random() * 200));
         }}
       />
